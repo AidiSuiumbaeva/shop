@@ -1,4 +1,4 @@
-package kg.easy.shop.controllers.repositories;
+package kg.easy.shop.repositories;
 
 import kg.easy.shop.models.entity.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
